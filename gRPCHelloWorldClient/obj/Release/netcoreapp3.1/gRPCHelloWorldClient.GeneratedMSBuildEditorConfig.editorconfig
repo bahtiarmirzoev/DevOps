@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = gRPCHelloWorldClient
+build_property.ProjectDir = C:\Users\Mirzo_ue21\Desktop\GrpcHelloWorld\gRPCHelloWorldClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

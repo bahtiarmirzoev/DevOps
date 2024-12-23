@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\gRPCHelloWorldClient",
+    "\\GrpcHelloWorldServer"
+  ],
+  "SelectedNode": "\\GrpcHelloWorldServer\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

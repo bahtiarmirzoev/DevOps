@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = GrpcHelloWorldServer
+build_property.ProjectDir = C:\Users\Mirzo_ue21\Desktop\GrpcHelloWorld\GrpcHelloWorldServer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
